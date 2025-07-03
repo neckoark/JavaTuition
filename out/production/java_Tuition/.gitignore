@@ -1,0 +1,10 @@
+/.metals/
+/.vscode/
+/out/
+/bin/
+*.classpath
+/.idea/
+.project
+*.iml
+*.class
+.DS_Store
